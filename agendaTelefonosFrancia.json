@@ -1,0 +1,33 @@
+[{
+        "nombre": "antonio",
+        "contrasena": 1345,
+        "dni": "45654321D",
+        "telefono": 985432890,
+        "direccion": "C/pozo grande,8"
+    },
+
+    {
+        "nombre": "federico",
+        "contrasena": 6677,
+        "dni": "74565710R",
+        "telefono": 987656775,
+        "direccion": "C/obispo osorio,32"
+    },
+
+    {
+        "nombre": "tomas",
+        "contrasena": 1253,
+        "dni": "46567987G",
+        "telefono": 666876545,
+        "direccion": "C/teatro grande,6"
+    },
+
+    {
+        "nombre": "pablo",
+        "contrasena": 7776,
+        "dni": "45987695R",
+        "telefono": 654000321,
+        "direccion": "C/santa ana,25"
+    }
+
+]
