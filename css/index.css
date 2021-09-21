@@ -206,7 +206,7 @@ input {
 
 .header {
     background-color: transparent;
-    background-image: url(img/imagen-portada.jpg);
+    background-image: url(../img/imagen-portada.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
