@@ -569,7 +569,7 @@ function insertarAgendaFrancia(e) {
 
     if (sessionStorage.getItem('telefonosFrancia') == null){
 
-        fetch('../agendaTelefonosFrancia.json')
+        fetch('agendaTelefonosFrancia.json')
 
         .then((res) => {
     
@@ -614,7 +614,7 @@ function insertarAgendaPortugal(e) {
     e.preventDefault()
 
     if (sessionStorage.getItem('telefonosPortugal') == null){
-        fetch('../agendaTelefonosPortugal.json')
+        fetch('agendaTelefonosPortugal.json')
         .then((res) => {
             console.log(res)
             return res.ok ? res.json() : Promise.reject(res)
